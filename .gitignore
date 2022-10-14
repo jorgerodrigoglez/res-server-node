@@ -1,3 +1,6 @@
 /node_modules
 .env
-uploads/**.*
+uploads/imgs/**.*
+uploads/productos/**.*
+uploads/usuarios/**.*
+uploads/readme.md
